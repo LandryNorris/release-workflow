@@ -117,7 +117,7 @@ Merge this feature pull request so that you can open the release pull request as
 </details>
 
 <!--Step 3-->
-<details id=3 open>
+<details id=3>
 <summary><h2>Step 3: Open a release pull request</h2></summary>
 
 ### Release branches and `main`
@@ -179,7 +179,7 @@ You can now [merge](https://docs.github.com/en/get-started/quickstart/github-glo
 </details>
 
 <!--Step 5-->
-<details id=5>
+<details id=5 open>
 <summary><h2>Step 5: Finalize the release</h2></summary>
 
 ### Finalizing releases
