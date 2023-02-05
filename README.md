@@ -30,7 +30,7 @@ GitHub releases allow your team to package and provide software to your users ba
 endstep0-->
 
 <!--Step 1-->
-<details id=1 open>
+<details id=1>
 <summary><h2>Step 1: Create a beta release</h2></summary>
 
 ### The GitHub flow
@@ -117,7 +117,7 @@ Merge this feature pull request so that you can open the release pull request as
 </details>
 
 <!--Step 3-->
-<details id=3>
+<details id=3 open>
 <summary><h2>Step 3: Open a release pull request</h2></summary>
 
 ### Release branches and `main`
